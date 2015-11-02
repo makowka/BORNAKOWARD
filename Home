@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+  <head> 
+    <link rel="stylesheet" href="main.css">
+  </head>
+
+  <body>
+    <div class="navbar">
+	    <div class="everything">
+	      <ul>
+		      <li>
+			      <a hhref="#">SHOP
+			      </a>
+          </li>
+          <li>
+			      <a hhref="#">SELL
+			      </a>
+          </li>
+		      <li>
+            <a hhref="#">ABOUT US
+		        </a>
+		      </li>
+          <li>
+            <a hhref="#">CONTACT US
+			      </a>
+		      </li>
+        </ul>
+	  </div>
+	</div>
+	<div class="jumbo">
+	  <div class="everything">
+		  <h1> BORNAKOWARD
+		  </h1>
+		  <p> Bringing Shoes Back To Life
+		  </p> 
+	  </div>
+	</div>
+  </body>
+</html>
