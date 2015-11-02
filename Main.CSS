@@ -1,0 +1,13 @@
+
+.jumbo {
+  background-image: url('http://g02.a.alicdn.com/kf/HTB17guZHFXXXXc6aXXXq6xXFXXX7/Free-shipping-Handmade-Mens-font-b-Shoes-b-font-Elegant-font-b-Brown-b-font-Genuine.jpg');
+  height: 450px;
+}
+.jumbo h1{
+  color: white;
+  font-size: 50px;
+}
+.jumbo p{
+  color: white;
+  font-size: 30px;
+}
